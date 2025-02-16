@@ -23,7 +23,7 @@ pip install -r requirements.txt
 2. **Index Documents**: Run the notebook to extract text, create embeddings, and build the FAISS index.
 3. **Query the Chatbot**: Using OpenAI's API, you can query the model with context retreived from the vector search
 
-## Future Improvements
+## TODOs
 
 - Modularize the code into .py scripts instead of a notebook
 - Implement a web-based UI for interaction.
